@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	var s1 pelajar
-	var s2 = pelajar{"yosep", 18}
+	var s2 = pelajar{"sakura", 18}
 	s1.nama = "aldo"
 	s1.umur = 19
 	s1.namasaya()
